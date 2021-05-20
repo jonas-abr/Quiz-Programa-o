@@ -21,3 +21,6 @@ Interface Web que faz perguntas e assinala se está correto ou não e ao fim mos
 
 ## 🚀Link para visualizar o projeto: (https://jonas-abr.github.io/Quizz/)
 
+Feito com ♥ por Caiquedevs
+
+
