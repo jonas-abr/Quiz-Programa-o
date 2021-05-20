@@ -3,6 +3,6 @@ Interface Web que faz perguntas e assinala se está correto ou não e ao fim mos
 
 <p align="center">
   <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/quiz.jpeg" width="200px">
-  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/img/quiz.jpeg" width="100%">
+  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/quiz2.jpeg" width="100%">
 </p>
 
