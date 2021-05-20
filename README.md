@@ -19,5 +19,7 @@ Interface Web que faz perguntas e assinala se está correto ou não e ao fim mos
   <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/quiz3.jpeg" width="70%">
 </p>
 
-## 🚀Link pra visualizar o projeto:
+## 🚀Link para visualizar o projeto:
+<p align="center">
 <a href="https://jonas-abr.github.io/Quizz/">
+</p>
