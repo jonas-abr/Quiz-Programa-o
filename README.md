@@ -9,4 +9,6 @@ Interface Web que faz perguntas e assinala se está correto ou não e ao fim mos
   <br><br><br><br>
   <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/quiz2.jpeg" width="70%">
 </p>
+<br>
 
+## 🚀Tela Final que mostra a quantidade e o percentual de acertos:
