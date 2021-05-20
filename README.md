@@ -11,4 +11,4 @@ Interface Web que faz perguntas e assinala se está correto ou não e ao fim mos
 </p>
 <br>
 
-## 🚀Tela Final que mostra a quantidade e o percentual de acertos:
+## 🚀Tela final que mostra a quantidade e o percentual de acertos:
