@@ -5,7 +5,7 @@ Interface Web que faz perguntas e assinala se está correto ou não e ao fim mos
 ## 🚀Tela de perguntas:
 
 <p align="center">
-  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/IPAD.png" width="400px"><br><br><br>
+  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/IPAD.png" width="500px"><br><br><br>
   <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/MOTOG4.png" width="300px">
 </p>
 <br>
@@ -13,7 +13,7 @@ Interface Web que faz perguntas e assinala se está correto ou não e ao fim mos
 ## 🚀Tela final que mostra a quantidade e o percentual de acertos:
 
 <p align="center">
-  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/TelaFinal-Ipad.png" width="400px"><br><br><br>
+  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/TelaFinal-Ipad.png" width="500px"><br><br><br>
   <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/TelaFinal-Motog4.png" width="300px">
 </p>
 
