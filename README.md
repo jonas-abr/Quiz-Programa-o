@@ -3,9 +3,7 @@ Interface Web que faz perguntas e assinala se está correto ou não e ao fim mos
 <br>
 
 ## 🚀Tela de perguntas:
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/IPAD.png)  |  ![](Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/MOTOG4.png)
+
 <p align="center">
   <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/IPAD.png" width="400px"><br><br><br>
   <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/MOTOG4.png" width="400px">
