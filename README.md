@@ -5,7 +5,7 @@ Interface Web que faz perguntas e assinala se está correto ou não e ao fim mos
 ## 🚀Tela de perguntas:
 
 <p align="center">
-  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/IPAD.png" width="400px">
+  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/IPAD.png" width="400px"><br>
   <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/MOTOG4.png" width="400px">
 </p>
 <br>
