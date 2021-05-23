@@ -14,9 +14,9 @@ Interface Web que faz perguntas e assinala se está correto ou não e ao fim mos
 ## 🚀Tela final que mostra a quantidade e o percentual de acertos:
 
 <p align="center">
-  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/IPAD.png" width="200px">
+  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/TelaFinal-Ipad.png" width="200px">
   <br><br><br>
-  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/MOTOG4.png" width="100%">
+  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/TelaFinal-Motog4.png" width="100%">
 </p>
 
 ## 🚀Link para visualizar o projeto: (https://jonas-abr.github.io/Quizz/)
