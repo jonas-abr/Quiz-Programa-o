@@ -7,8 +7,20 @@ Interface Web que faz perguntas e assinala se está correto ou não e ao fim mos
 <p align="center">
   <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/quiz.jpeg" width="200px">
   <br><br><br>
-  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/quiz2.jpeg" width="70%">
+  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/quiz2.jpeg" width="100%">
 </p>
 <br>
 
 ## 🚀Tela final que mostra a quantidade e o percentual de acertos:
+
+<p align="center">
+  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/quiz4.jpeg" width="200px">
+  <br><br><br>
+  <img alt="Quizz" src="https://github.com/jonas-abr/Quizz/blob/main/img/quiz3.jpeg" width="100%">
+</p>
+
+## 🚀Link para visualizar o projeto: (https://jonas-abr.github.io/Quizz/)
+
+Feito com ♥ por Jonas Abreu
+
+
